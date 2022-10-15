@@ -32,3 +32,4 @@ print(x+y)
 # print(x+ad) hata verdi
 print(x+sinav_basarili_mi)
 # print(ad+sinav_basarili_mi) hata verdi
+# kullanıcıdan alınan iki veriyi toplama
