@@ -19,13 +19,12 @@ url = "https://teknolojiaihl.meb.k12.tr"
 # 1.odev
 print(len(url))
 # 2.odev
-print(url[23])
-print(url[24])
-print(url[25])
+print(url[22:25])
+
+
 # 3.odev
-print(url[27])
-print(url[28])
-print(url[29])
+print(url[26:29])
+
 # 4.odev
 isim = input("İsminiz: ")
 yemek  = input("en sevdiğiniz yemek: ")
