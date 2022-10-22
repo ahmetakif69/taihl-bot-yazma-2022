@@ -1,4 +1,4 @@
-okul="sancaktepe teknoloji imamhatip lisesi"
+okul="
 # BÜTÜN HARFLERİ BÜYÜTME
 print(okul.upper())
 
