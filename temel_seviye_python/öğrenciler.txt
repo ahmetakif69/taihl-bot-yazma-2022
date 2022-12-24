@@ -1,0 +1,2 @@
+Ad: ahmet, Soyad: markoç, Notlar: 63,100, Ortalama: 81.5
+Ad: ben, Soyad: sen, Notlar: Not bilgisi yok, Ortalama: Ortalama hesaplanmadı
